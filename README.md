@@ -34,8 +34,7 @@ This section lists all the technologies, libraries, and frameworks used across t
 ## Installation
 Instructions on setting up the environment and installing the necessary dependencies for running the projects.
 
-## Usage
-Examples of how to use the code or models within this repository, including code snippets and command-line instructions.
+
 
 ## Contributing
 Guidelines for anyone who wishes to contribute to these projects. Include instructions on submitting pull requests, coding standards, and contact information for queries.
